@@ -1,0 +1,15 @@
+{
+  "name": "passwordvalidator",
+  "version": "1.0.0",
+  "description": "Quick and dirty password checker",
+  "main": "psval.js",
+  "scripts": {
+    "dev": "node psval.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan M. Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "owasp-password-strength-test": "^1.3.0"
+  }
+}

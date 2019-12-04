@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# custom
+.DS_Store
+.caches
+.drone.sec.yml
+.eslintcache
+.idea
+.prettierrc
+.project
+.vscode
